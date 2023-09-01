@@ -68,13 +68,16 @@ mamasushi.addDishToCourse('appetizers',
                      12);
 mamasushi.addDishToCourse('appetizers',
                      'Satay Trio (Skewers)',
-                     16);
+                     14);
 mamasushi.addDishToCourse('appetizers',
                      'Baby Back Ribs',
-                     14);
+                     15);
 mamasushi.addDishToCourse('appetizers',
                      'Panko Chicken',
-                     14);
+                     12);
+mamasushi.addDishToCourse('appetizers',
+                     'Popcorn Chicharron',
+                     15);
 
 mamasushi.addDishToCourse('mains',
                      'Villa Mella',
@@ -84,13 +87,13 @@ mamasushi.addDishToCourse('mains',
                      16);
 mamasushi.addDishToCourse('mains',
                      'El Campesino',
-                     14);
+                     15);
 mamasushi.addDishToCourse('mains',
                      'El Fuerte',
-                     17);
+                     18);
 mamasushi.addDishToCourse('mains',
                      'El Montro',
-                     17);
+                     18);
 mamasushi.addDishToCourse('mains',
                      'Villa Mella',
                      14);
